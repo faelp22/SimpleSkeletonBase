@@ -1,0 +1,25 @@
+{
+    "name": "faelp22/SimpleSkeletonBase",
+    "description": "Simple Application Skeleton Base for php 5.3 >",
+    "license": "MIT",
+    "keywords": ["Simple Skeleton Base"],
+    "homepage": "https://github.com/faelp22/SimpleSkeletonBase",
+    "type": "structure",
+    "version": "0.0.1",
+    "authors": [
+        {
+            "name": "Isael Sousa",
+            "email": "faelp22@hotmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "faelp22/common_hash": "dev-master"
+    },
+    "autoload": {
+        "psr-0": {
+            "controller": "",
+            "model": ""
+        }
+    }
+}
