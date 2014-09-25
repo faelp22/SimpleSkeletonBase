@@ -9,7 +9,7 @@ class CoreProcess {
     }// End get_nome
 
     public static function get_description() {
-        return 'Simple Skeleton Base';
+        return 'Simple Skeleton Base V-0.0.2';
     }// End get_description
 
     public static function get_author() {
@@ -21,7 +21,7 @@ class CoreProcess {
     }// End get_icon
 
     public static function get_title() {
-        return 'Simple Skeleton Base';
+        return 'Simple Skeleton Base V-0.0.2';
     }// End get_title
 
     public static function get_css($baseURL, $baseFile) {
