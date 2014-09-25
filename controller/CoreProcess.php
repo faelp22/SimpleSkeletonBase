@@ -9,7 +9,7 @@ class CoreProcess {
     }// End get_nome
 
     public static function get_description() {
-        return 'Simple Skeleton Base V-0.0.2';
+        return 'Simple Skeleton Base V-0.2';
     }// End get_description
 
     public static function get_author() {
